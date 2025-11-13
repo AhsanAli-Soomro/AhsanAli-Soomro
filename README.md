@@ -2,7 +2,7 @@
 <div align="center">
 
 # 👋 Hey, I'm <strong>Ahsan Ali</strong>  
-### Full Stack Developer • React.js • React Native • Node.js
+### Full Stack Developer • React.js • React Native • Node.js • MongoDB • SQL
 
 Building fast, scalable and modern web applications with clean and intuitive UI/UX.
 
