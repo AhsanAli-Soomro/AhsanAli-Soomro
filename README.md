@@ -48,7 +48,7 @@ I build fast, scalable, and user-friendly applications with clean and maintainab
 
 ## ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 </p>
 
 ## 🗄️ Databases
